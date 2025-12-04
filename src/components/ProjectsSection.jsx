@@ -27,7 +27,7 @@ const projects = [
       "A real-time mess update system built to simplify student life, one meal at a time.",
     image: "/projects/project3.jpeg",
     tags: ["React", "Node.js", "Javacript"],
-    demoUrl: "https://netflix-clone-nu-woad-52.vercel.app/",
+    demoUrl: "https://netflix-clone-ejpq.vercel.app/",
     githubUrl: "https://github.com/sahil2007a",
   },
 ];
